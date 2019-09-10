@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Android Quiz Version 4.0</string>
+
+    <!-- Main Screen of the Quiz -->
+    <string name="welcome">Welcome to the Multiple Choice Quiz!</string>
+    <string name="begin">Start Quiz</string>
+    <string name="title_activity_user_register">Android Quiz</string>
+    <string name="User">User Name</string>
+    <string name="Password">Password</string>
+    <string name="newUser">Create New User</string>
+
+    <!-- String Questions for the quiz -->
+    <string name="question">Question to Answer</string>
+    <string name="question_google_android">When did Google acquire Android?</string>
+    <string name="question_toolkit">What is the name of build toolkit for Android Studio?</string>
+    <string name="question_widget_radio">What widget can replace any use of radio buttons?</string>
+    <string name="question_version">What is the most recent Android OS?</string>
+    <string name="question_screen">Which screen do you use to modify layouts?</string>
+    <string name="question_onclick">Which attribute allows user to press buttons?</string>
+    <string name="question_ondestroy">This method is called when the user closes the app completely.</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+    <string name="D">D</string>
+
+    <!-- Game ended screen -->
+    <string name="play_again">Play Again?</string>
+    <string name="logout">Log Out</string>
+    <string name="your_score">Your Score:</string>
+    <string name="highest_score">Highest Score:</string>
+
+
+    <!-- High Scores Screen -->
+    <string name="highScores">High Scores</string>
+    <string name="btnBack">Go Back</string>
+
+</resources>
